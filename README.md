@@ -32,28 +32,19 @@
     - Preprocessing bird audio into spectrograms
     - Applying ML model to predict species
     - Simple result visualization
-  - **Screenshot/Demo:**
-    <p align="center">
-      <img src="assets/chirp-demo.gif" alt="CHIRP Demo" width="600" />
-    </p>
+  
 
 - 🎬 **StreamMates – Movie/Series Discovery** – Frontend practice project built with React + Vite, exploring movie discovery UI and basic features. [Repo](LINK_TO_REPO)
   - **Features:**
     - Search and filter movies/series
     - Explore simple recommendation UI
     - Responsive design with React + Vite
-  - **Screenshot/Demo:**
-    <p align="center">
-      <img src="assets/streammates-demo.gif" alt="StreamMates Demo" width="600" />
-    </p>
+  
 
 - 📊 **Visualizing COVID-19 Data** – Data analysis practice project using Python to plot and understand COVID-19 trends. [Repo](https://github.com/rahulsahu02/Visualizing-COVID-19-Data)
   - **Features:**
     - Load and clean COVID dataset
     - Plot country-wise comparisons
     - Visualize recovery vs cases trends
-  - **Screenshot/Demo:**
-    <p align="center">
-      <img src="assets/covid19-visual.png" alt="COVID-19 Visualization" width="600" />
-    </p>
+  
 ---
