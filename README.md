@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rahul Sahu 👋</h1>
+<p align="center">
+  <b>Python Developer</b> • Open Source • Clean Code • T‑Shaped Learner
+</p>
 
-<!--
-**rahulsahu02/rahulsahu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/rahulsahu02?tab=followers">
+    <img src="https://img.shields.io/github/followers/rahulsahu02?style=flat" alt="followers" />
+  </a>
+  <a href="https://github.com/rahulsahu02?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Repos-?style=flat" alt="repos" />
+  </a>
+  <a href="https://github.com/rahulsahu02">
+    <img src="https://komarev.com/ghpvc/?username=rahulsahu02" alt="profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### About me
+- 🔭 Currently working on: **Machine Learning Projects & Web Apps**
+- 🌱 Learning: **Machine Learning / SQL / React / Data Structures & Algorithsms / Django**
+- 💬 Ask me about: **Python, Data Analysis, Web Development**
+- 📫 Reach me: **sahurahul0214@gmail.com** | [LinkedIn](https://www.linkedin.com/in/rahul-sahu-03669a311/) | [Portfolio](YOUR_PORTFOLIO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+`JavaScript` `TypeScript` `React` `Node.js` `Express` `Python` `Django` `MySQL` `MongoDB` `R`  `GitHub Actions` `Scikit-learn` `Librosa` `Pandas` `Numpy` `Matplotlib` `Seaborn`
+
+### Featured Projects
+*(Note: These are learning/practice projects — showcasing what I’m exploring right now)*
+
+- 🐦 **CHIRP – Birdsong Recognition** – Practice project where I explored audio data and machine learning models to classify bird species. [Repo](https://github.com/rahulsahu02/CHIRP-Birdsong-Recognition)
+  - **Features:**
+    - Preprocessing bird audio into spectrograms
+    - Applying ML model to predict species
+    - Simple result visualization
+  - **Screenshot/Demo:**
+    <p align="center">
+      <img src="assets/chirp-demo.gif" alt="CHIRP Demo" width="600" />
+    </p>
+
+- 🎬 **StreamMates – Movie/Series Discovery** – Frontend practice project built with React + Vite, exploring movie discovery UI and basic features. [Repo](LINK_TO_REPO)
+  - **Features:**
+    - Search and filter movies/series
+    - Explore simple recommendation UI
+    - Responsive design with React + Vite
+  - **Screenshot/Demo:**
+    <p align="center">
+      <img src="assets/streammates-demo.gif" alt="StreamMates Demo" width="600" />
+    </p>
+
+- 📊 **Visualizing COVID-19 Data** – Data analysis practice project using Python to plot and understand COVID-19 trends. [Repo](https://github.com/rahulsahu02/Visualizing-COVID-19-Data)
+  - **Features:**
+    - Load and clean COVID dataset
+    - Plot country-wise comparisons
+    - Visualize recovery vs cases trends
+  - **Screenshot/Demo:**
+    <p align="center">
+      <img src="assets/covid19-visual.png" alt="COVID-19 Visualization" width="600" />
+    </p>
+---
